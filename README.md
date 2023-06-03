@@ -8,4 +8,5 @@
  <h3><a target="_blank" href="https://skaranjai.github.io/ParallaxExample/">Click Here to view the Page</a>
 </h3>
 <p>This is an example which gives an illusion that a video is getting played.</br>
-In actual 5 images are moving across the screen in different pace which gives the parallax effect.</p>
+In actual 5 images are moving across the screen in different pace which gives the parallax effect.</br>
+Bottom of the page there is scale by which you can increase or decrease the speed of the movement of image(s).</p>
